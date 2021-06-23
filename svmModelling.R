@@ -1,4 +1,4 @@
-#SVM analysis by Bacchus Beale
+#SVM analysis 
 
 
 # https://www.datacamp.com/community/tutorials/support-vector-machines-r
